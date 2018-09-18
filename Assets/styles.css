@@ -1,0 +1,36 @@
+#contact {
+	text-align: center;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.navbar-brand {
+	font-size: 54px;
+	font-family: "Times", serif;
+}
+
+.navbar img {
+	margin-right: 30px;
+}
+
+.jumbotron img {
+	margin-left: 30px;
+}
+
+#classes {
+	margin-bottom: 20px;
+}
+
+#about {
+	color: white;
+}
